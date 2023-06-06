@@ -1,0 +1,11 @@
+# I recommend use conda env
+# Usage: pip install -r requirements.txt
+
+matplotlib
+numpy
+opencv-python
+pandas
+seaborn
+tqdm
+torch>=1.12.0
+torchvision
