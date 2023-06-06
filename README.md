@@ -1,5 +1,5 @@
 # Simple Landmark loss 
-Implementation of Wing Loss paper - [Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks](https://arxiv.org/abs/1711.06753)
+Implementation of Wing Loss paper - [Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks](https://arxiv.org/abs/1711.06753)<br/>
 Implementation of Adaptive Wing Loss paper - [Adaptive Wing Loss for Robust Face Alignment via Heatmap Regression](https://arxiv.org/abs/1904.07399)
 
 ## Installation
@@ -21,7 +21,7 @@ run each cell in main.ipynb or you can find my work at https://www.kaggle.com/co
 In validate step at main.ipynb
 
 ## Model extraction
-ResNet18: https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
+ResNet18: https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py <br/>
 ShuffleNetV2x0.5: https://github.com/pytorch/vision/blob/main/torchvision/models/shufflenetv2.py
 
 ## Result 
